@@ -1,3 +1,4 @@
 # cryptosteel-tutorials
-Tutorials how to use Cryptosteel.
+Tutorials for Cryptosteel - www.cryptosteel.com indestructible open hardware backup tool. 
+
 
